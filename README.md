@@ -1,2 +1,2 @@
-# Calculator.AshtonLeeSeloka
+# Calculator
 A simple console Calculator
